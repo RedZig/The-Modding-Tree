@@ -2,7 +2,7 @@ let modInfo = {
 	name: "The MMO-Tree",
 	id: "Red_Mod",
 	author: "Red_Zig",
-	pointsName: "points",
+	pointsName: "Exp",
 	discordName: "",
 	discordLink: "",
 	initialStartPoints: new Decimal (10), // Used for hard resets and new players
